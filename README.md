@@ -60,7 +60,7 @@ Source code of ** Data Structures and Algorithms**
 
 * Demo: [https://javascript-ds-algorithms-book.firebaseapp.com](https://javascript-ds-algorithms-book.firebaseapp.com)
 
-<img src="examples/examples-screenshot.png">
+
 
 Happy Coding!
 
